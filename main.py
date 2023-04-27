@@ -15,7 +15,7 @@ Quit = False
 
 
 def CaesarCipher(plain_text, shift_amount, cipher_direction):
-    # creating a function to do encoding and decoding
+    """ a function to do encoding and decoding """
     end_chipher = ""  # empty string
     end_text = "encoded"
     # making shift_amount negative if direction is decode
