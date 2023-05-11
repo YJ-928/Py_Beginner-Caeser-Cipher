@@ -4,3 +4,5 @@
 
 # Caeser Cipher Game
 #### A simple python proj for Encoding & Decoding using Caeser-Cipher's
+
+![image](https://github.com/YJ-928/Py_Beginner-Caeser-Cipher/assets/68319416/5ecfb90b-d264-4644-837b-90eb932a54e8)
